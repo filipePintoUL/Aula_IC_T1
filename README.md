@@ -7,7 +7,7 @@
 - Controles: Teclado e rato
 
 ### Imagem do Jogo
-![Imagem do Jogo](./imagens/mando.jpg)
+![Imagem do Jogo](/imagens/mando.jpg)
 
 ### Website Oficial
 [Visite o Website Oficial](http://www.ulusofona.pt)

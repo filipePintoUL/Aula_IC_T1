@@ -4,7 +4,7 @@
 ### Requisitos do Jogo
 - Mínimo de 2 jogadores
 - Plataforma: PC
-- Controles: Teclado e rato
+- Controlos: Teclado e rato
 
 ### Imagem do Jogo
 ![Imagem do Jogo](Imagens/mando.jpg)
